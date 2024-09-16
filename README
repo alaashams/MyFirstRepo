@@ -28,3 +28,8 @@ MyFirstRepo % git log –-format=raw
   README.md
  .git % git cat-file -p
 5af442792c1331d2dc8cfc8c98b675b6da003b96
+MyFirstRepo % echo “IU Networking project” >> README.md
+ MyFirstRepo % git add README.md
+ MyFirstRepo % git commit -m “Second commit”
+ [master 41475de] Second commit
+ 1 file changed, 1 insertion(+)
