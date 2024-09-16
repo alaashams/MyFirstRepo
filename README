@@ -20,3 +20,9 @@ To github.com:hadidrachid/MyFirstRepo.git
 Branch ‘master’ set up to track remote branch ‘master’ from ‘origin’.
 MyFirstRepo %
 MyFirstRepo % git log –-format=raw
+.git % git cat-file -p e57f977b
+ d6c515fc1d67d36ccb5958ac10e60674
+ 100644 blob e43b0f988953ae3a84b00331d0ccf5f7d51cb3cf
+  .gitignore
+ 100644 blob 28db6070ba3f29124f7e2df09423c21f30f6ee17
+  README.md
