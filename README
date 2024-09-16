@@ -26,3 +26,5 @@ MyFirstRepo % git log –-format=raw
   .gitignore
  100644 blob 28db6070ba3f29124f7e2df09423c21f30f6ee17
   README.md
+ .git % git cat-file -p
+5af442792c1331d2dc8cfc8c98b675b6da003b96
